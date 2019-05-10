@@ -4,7 +4,21 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43b1027-ba2b-4a68-a5a2-0a001dbd723c" name="Default" comment="" />
+    <list default="true" id="a43b1027-ba2b-4a68-a5a2-0a001dbd723c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/20190422_iterlearning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.learning.python/learning_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/com.learning.python/com/learning/python/base/learning_input.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,15 +28,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_learning$learning_heapq.coverage" NAME="learning_heapq Coverage Results" MODIFIED="1553615477129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic" />
     <SUITE FILE_PATH="coverage/python_learning$learning_input.coverage" NAME="learning_input Coverage Results" MODIFIED="1553246187946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com.learning.python" />
+    <SUITE FILE_PATH="coverage/python_learning$learning_arithmetic.coverage" NAME="learning_arithmetic Coverage Results" MODIFIED="1553614283448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com.learning.python" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="learning_input.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com.learning.python/learning_input.py">
+      <file leaf-file-name="20190422_iterlearning.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/20190422_iterlearning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -38,6 +54,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -51,6 +68,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/com.learning.python/learning_input.py" />
+        <option value="$PROJECT_DIR$/com.learning.python/learning_arithmetic.py" />
+        <option value="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_collections.py" />
+        <option value="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_heapq.py" />
+        <option value="$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/20190422_iter.py" />
+        <option value="$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/20190422_iterlearning.py" />
       </list>
     </option>
   </component>
@@ -73,9 +95,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,10 +109,59 @@
               <item name="python-learning" type="462c0819:PsiDirectoryNode" />
               <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learning.python" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="iterlearning" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,6 +175,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic" />
+      <recent name="$PROJECT_DIR$/com.learning.python/com/learning/python/base" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -117,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.learning_heapq">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -137,6 +213,44 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="learning_arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com.learning.python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_arithmetic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="learning_heapq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_heapq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="learning_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com.learning.python/learning_input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com.learning.python/com/learning/python/base/learning_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,8 +292,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Python.learning_input" />
+      <item itemvalue="Python.learning_arithmetic" />
+      <item itemvalue="Python.learning_heapq" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.learning_heapq" />
+        <item itemvalue="Python.learning_arithmetic" />
         <item itemvalue="Python.learning_input" />
       </list>
     </recent_temporary>
@@ -196,37 +317,40 @@
       <updated>1553237663103</updated>
       <workItem from="1553237668092" duration="5566000" />
       <workItem from="1553524123460" duration="655000" />
+      <workItem from="1553612985853" duration="2120000" />
+      <workItem from="1555937480687" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6221000" />
+    <option name="totallyTimeSpent" value="8612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="946" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="946" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32916147" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2610565" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924905" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -241,8 +365,51 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com.learning.python/learning_input.py">
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/base/learning_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_arithmetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/base/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/base/learning_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/base/learning_input.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
@@ -255,10 +422,67 @@
     <entry file="file://$PROJECT_DIR$/com.learning.python/2-Python基础.ipynb" />
     <entry file="file://$PROJECT_DIR$/com.learning.python/1-Python简介.ipynb" />
     <entry file="file://$PROJECT_DIR$/com.learning.python/0-Preparation.ipynb" />
-    <entry file="file://$PROJECT_DIR$/com.learning.python/learning_input.py">
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/base/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/heapq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="9540">
+          <caret line="530" column="14" lean-forward="true" selection-start-line="530" selection-start-column="14" selection-end-line="530" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/base/learning_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_arithmetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/20190422_iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/arithmetic/learning_heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.learning.python/com/learning/python/iterlearning/20190422_iterlearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
